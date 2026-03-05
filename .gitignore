@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
+.venv/
+.env
+.pytest_cache/
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+dist/
+build/
+data/
+results/runs/
